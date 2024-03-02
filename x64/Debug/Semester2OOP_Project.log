@@ -1,0 +1,3 @@
+﻿  SourceCode.cpp
+C:\Users\mahro\source\repos\Semester2OOP_Project\SourceCode.cpp(98): warning C4715: 'Register': not all control paths return a value
+  Semester2OOP_Project.vcxproj -> C:\Users\mahro\source\repos\Semester2OOP_Project\x64\Debug\Semester2OOP_Project.exe
